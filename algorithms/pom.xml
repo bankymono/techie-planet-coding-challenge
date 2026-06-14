@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.techieplanet</groupId>
-    <artifactId>techie-planet-coding-challenge</artifactId>
+    <artifactId>algorithm-solutions</artifactId>
     <version>1.0.0</version>
 
     <properties>
