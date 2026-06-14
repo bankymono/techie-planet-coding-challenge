@@ -1,0 +1,8 @@
+target/
+*.class
+
+.idea/
+docs/
+
+.DS_Store
+Thumbs.db
